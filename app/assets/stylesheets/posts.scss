@@ -10,7 +10,7 @@
   background-repeat: no-repeat;
   background-position: center 50%;
   background-size: cover;
-  background-image: url("/tweets5.jpg");
+  background-image: url("/pic5.jpg");
 }
 
 .posts-index-item {
@@ -57,7 +57,7 @@
   background-repeat: no-repeat;
   background-position: center 50%;
   background-size: cover;
-  background-image: url("/tweets4.jpg");
+  background-image: url("/pic8.jpg");
 }
 
 .posts-show form {
@@ -95,6 +95,20 @@
   color: #8899a6;
   margin-bottom: 10px;
 }
+
+.like-btn {
+  color: #8899a6;
+}
+
+.like-btn-unlike {
+  color: #ff2581;
+}
+
+.posts-show-item .fa {
+  font-size: 16px;
+  margin-right: 3px;
+}
+
 
 .post-menus {
   float: right;
