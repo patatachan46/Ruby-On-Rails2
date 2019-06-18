@@ -1,24 +1,11 @@
-# README
+Name
+====
+ツイッターみたいなサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+Ruby on Railsの学習で使用したサイト。</br>
 
-Things you may want to cover:
+サイト名：　　プロゲート</br>
+サイトURL:　https://prog-8.com/languages/rails5</br>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+内容：　Ruby on Railsを使って、Progateの内容を元に作成したサイト。</br>
